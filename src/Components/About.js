@@ -4,7 +4,7 @@ import { useState } from "react/cjs/react.development";
 export default function About() {
   const [myStyle, setMyStyle] = useState({
     color: "black",
-    backgroundColor: "white",
+    backgroundColor: " ",
   });
 
   const [btntext, setBtnText] = useState("Enable Dark Mode");
